@@ -22,7 +22,9 @@
 - **Две версии в одном лаунчере.** Базовая: выбрал версию, нажал «Играть». Продвинутая: сборки, категории, терминал, настройки памяти для каждой сборки.
 - **Fabric и Forge в один клик**, без отдельных установщиков.
 - **Сам скачивает нужную Java** для любой версии Minecraft.
-- **Аккаунты:** оффлайн, Ely.by (со скинами), TLauncher по нику (скин с tlauncher.org / tlauncher.ru), Microsoft / Xbox.
+- **Своя папка модов и миров у каждой сборки** (новое в 0.9): моды разных версий больше не мешают друг другу.
+- **Поиск и установка модов прямо в лаунчере** (каталог Modrinth, нужные моды ставятся сами, новое в 0.9).
+- **Аккаунты:** оффлайн, Ely.by (со скинами), TLauncher — вход на странице сайта TLauncher прямо в лаунчере, ник подставляется сам, Microsoft / Xbox.
 - **Подсказки при вылете игры:** не та Java, мало памяти, конфликт модов.
 - Ползунок памяти (ОЗУ), включение и выключение модов, перенос миров, игра без интернета.
 - Полностью на русском и английском.
@@ -32,7 +34,9 @@
 - **Two launchers in one.** Basic: pick a version and press Play. Advanced: instances, categories, live game log, per-instance memory.
 - **Fabric and Forge in one click**, no separate installers.
 - **Downloads the right Java** for every Minecraft version.
-- **Accounts:** offline, Ely.by (with skins), TLauncher by nickname, Microsoft / Xbox.
+- **Own mods and worlds folder for every instance** (new in 0.9): mods for different versions no longer clash.
+- **Find and install mods right in the launcher** (Modrinth catalog, required mods are added automatically, new in 0.9).
+- **Accounts:** offline, Ely.by (with skins), TLauncher sign-in on the TLauncher website inside the launcher, Microsoft / Xbox.
 - **Crash hints:** wrong Java, not enough memory, mod conflicts.
 - Memory slider, enable/disable mods, world transfer, offline play.
 - Fully in English and Russian.
@@ -41,7 +45,8 @@
 
 | Версия / Version | Установщик / Installer | Зеркала / Mirrors |
 |---|---|---|
-| **0.5 Alpha** (новая / new) | [YLauncher_Setup_v0.5.exe](https://yzcorporation.netlify.app/YLauncher_Setup_v0.5.exe) | [GitHub](https://github.com/ghost12345pepper-debug/Y_Launcher/releases/tag/v0.5-alpha) (+ offline setup, zip, iso) |
+| **0.9 Alpha** (новая / new) | [YLauncher_Setup_v0.9.exe](https://yzcorporation.netlify.app/YLauncher_Setup_v0.9.exe) | [GitHub](https://github.com/ghost12345pepper-debug/Y_Launcher/releases/tag/v0.9-alpha) (+ offline setup, zip, iso) |
+| 0.5 Alpha | [YLauncher_Setup_v0.5.exe](https://yzcorporation.netlify.app/YLauncher_Setup_v0.5.exe) | [GitHub](https://github.com/ghost12345pepper-debug/Y_Launcher/releases/tag/v0.5-alpha) (+ offline setup, zip, iso) |
 | 0.1 Alpha | [YLauncher_Setup.exe](https://yzcorporation.netlify.app/YLauncher_Setup.exe) | [GitHub](https://github.com/ghost12345pepper-debug/Y_Launcher/releases/tag/Y_launcher) |
 
 Нашли баг? / Found a bug? → [yzcorporation.netlify.app/ru/support](https://yzcorporation.netlify.app/ru/support)
