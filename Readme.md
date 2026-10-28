@@ -22,6 +22,9 @@
 - **Две версии в одном лаунчере.** Базовая: выбрал версию, нажал «Играть». Продвинутая: сборки, категории, терминал, настройки памяти для каждой сборки.
 - **Fabric и Forge в один клик**, без отдельных установщиков.
 - **Сам скачивает нужную Java** для любой версии Minecraft.
+- **Неоновый стиль продвинутой версии и новые фоны** (новое в 1.0 Beta): пиксельные и неоновые картинки или своя.
+- **Лаунчер сам находит Java** на компьютере (системные папки и реестр) и **ставит самую новую сборку Forge** (новое в 1.0 Beta).
+- **Память по свободной ОЗУ** и одна настройка памяти для всех сборок (новое в 1.0 Beta).
 - **Своя папка модов и миров у каждой сборки** (новое в 0.9): моды разных версий больше не мешают друг другу.
 - **Поиск и установка модов прямо в лаунчере** (каталог Modrinth, нужные моды ставятся сами, новое в 0.9).
 - **Аккаунты:** оффлайн, Ely.by (со скинами), TLauncher — вход на странице сайта TLauncher прямо в лаунчере, ник подставляется сам, Microsoft / Xbox.
@@ -34,6 +37,9 @@
 - **Two launchers in one.** Basic: pick a version and press Play. Advanced: instances, categories, live game log, per-instance memory.
 - **Fabric and Forge in one click**, no separate installers.
 - **Downloads the right Java** for every Minecraft version.
+- **Neon style for the advanced version and new backgrounds** (new in 1.0 Beta): pixel and neon pictures or your own.
+- **Finds Java on the computer by itself** (system folders and the registry) and **installs the newest Forge build** (new in 1.0 Beta).
+- **Memory by free RAM** and one memory setting for all instances (new in 1.0 Beta).
 - **Own mods and worlds folder for every instance** (new in 0.9): mods for different versions no longer clash.
 - **Find and install mods right in the launcher** (Modrinth catalog, required mods are added automatically, new in 0.9).
 - **Accounts:** offline, Ely.by (with skins), TLauncher sign-in on the TLauncher website inside the launcher, Microsoft / Xbox.
@@ -45,7 +51,8 @@
 
 | Версия / Version | Установщик / Installer | Зеркала / Mirrors |
 |---|---|---|
-| **0.9 Alpha** (новая / new) | [YLauncher_Setup_v0.9.exe](https://yzcorporation.netlify.app/YLauncher_Setup_v0.9.exe) | [GitHub](https://github.com/ghost12345pepper-debug/Y_Launcher/releases/tag/v0.9-alpha) (+ offline setup, zip, iso) |
+| **1.0 Beta** (новая / new) | [YLauncher_Setup_v1.0.exe](https://yzcorporation.netlify.app/YLauncher_Setup_v1.0.exe) | [GitHub](https://github.com/ghost12345pepper-debug/Y_Launcher/releases/tag/v1.0-beta) (+ offline setup, zip, iso) |
+| 0.9 Alpha | [YLauncher_Setup_v0.9.exe](https://yzcorporation.netlify.app/YLauncher_Setup_v0.9.exe) | [GitHub](https://github.com/ghost12345pepper-debug/Y_Launcher/releases/tag/v0.9-alpha) (+ offline setup, zip, iso) |
 | 0.5 Alpha | [YLauncher_Setup_v0.5.exe](https://yzcorporation.netlify.app/YLauncher_Setup_v0.5.exe) | [GitHub](https://github.com/ghost12345pepper-debug/Y_Launcher/releases/tag/v0.5-alpha) (+ offline setup, zip, iso) |
 | 0.1 Alpha | [YLauncher_Setup.exe](https://yzcorporation.netlify.app/YLauncher_Setup.exe) | [GitHub](https://github.com/ghost12345pepper-debug/Y_Launcher/releases/tag/Y_launcher) |
 
